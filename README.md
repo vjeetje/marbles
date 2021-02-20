@@ -2,6 +2,8 @@
 
 Unity game `Marbles` written for Mobile in C#. The game is heavily inspired by [Shot by gamedesign](https://www.gamedesign.jp/flash/shot/shot.html).
 
+Download APK: [marbles.apk](marbles.apk)
+
 The rules are:
 1. Clear the board until only one marble remains on the board
 2. Clear the board within the time limit. Solving the board increases the remaining time.
